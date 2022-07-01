@@ -1,15 +1,15 @@
 [
   {
     "full_name": "processing/p5.js",
-    "stargazers_count": 17686,
-    "open_issues_count": 226,
-    "forks_count": 2668
+    "stargazers_count": 17694,
+    "open_issues_count": 227,
+    "forks_count": 2667
   },
   {
     "full_name": "OmniDB/OmniDB",
-    "stargazers_count": 2824,
+    "stargazers_count": 2825,
     "open_issues_count": 321,
-    "forks_count": 404
+    "forks_count": 405
   },
   {
     "full_name": "akiver/CSGO-Demos-Manager",
@@ -19,33 +19,33 @@
   },
   {
     "full_name": "dbeaver/dbeaver",
-    "stargazers_count": 27120,
-    "open_issues_count": 1471,
-    "forks_count": 2503
+    "stargazers_count": 27161,
+    "open_issues_count": 1481,
+    "forks_count": 2504
   },
   {
     "full_name": "VCVRack/Rack",
     "stargazers_count": 3574,
     "open_issues_count": 307,
-    "forks_count": 400
+    "forks_count": 401
   },
   {
     "full_name": "httpie/httpie",
-    "stargazers_count": 22258,
+    "stargazers_count": 22285,
     "open_issues_count": 111,
-    "forks_count": 3683
+    "forks_count": 3685
   },
   {
     "full_name": "lichess-org/lila",
-    "stargazers_count": 11612,
-    "open_issues_count": 590,
-    "forks_count": 1672
+    "stargazers_count": 11615,
+    "open_issues_count": 596,
+    "forks_count": 1675
   },
   {
     "full_name": "firebase/php-jwt",
-    "stargazers_count": 8232,
+    "stargazers_count": 8237,
     "open_issues_count": 83,
-    "forks_count": 1160
+    "forks_count": 1161
   },
   {
     "full_name": "fireship-io/tdd-basics-project",
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "thombergs/buckpal",
-    "stargazers_count": 1305,
+    "stargazers_count": 1307,
     "open_issues_count": 15,
     "forks_count": 418
   },
   {
     "full_name": "CodelyTV/php-ddd-example",
-    "stargazers_count": 2220,
+    "stargazers_count": 2226,
     "open_issues_count": 48,
-    "forks_count": 824
+    "forks_count": 827
   },
   {
     "full_name": "CodelyTV/java-ddd-skeleton",
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "moment/moment",
-    "stargazers_count": 46631,
+    "stargazers_count": 46639,
     "open_issues_count": 212,
-    "forks_count": 7095
+    "forks_count": 7097
   },
   {
     "full_name": "Yorubaname/yorubaname-website",
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "andresgongora/synth-shell",
-    "stargazers_count": 480,
+    "stargazers_count": 484,
     "open_issues_count": 9,
     "forks_count": 190
   },
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "angular/flex-layout",
-    "stargazers_count": 5843,
-    "open_issues_count": 52,
-    "forks_count": 760
+    "stargazers_count": 5842,
+    "open_issues_count": 50,
+    "forks_count": 759
   },
   {
     "full_name": "juliangarnier/anime",
-    "stargazers_count": 42591,
+    "stargazers_count": 42610,
     "open_issues_count": 189,
-    "forks_count": 3508
+    "forks_count": 3509
   },
   {
     "full_name": "milanpaudyal/Criteria-builder-demo",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "mattn/emmet-vim",
-    "stargazers_count": 5968,
+    "stargazers_count": 5970,
     "open_issues_count": 112,
     "forks_count": 418
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "Xmader/musescore-downloader",
-    "stargazers_count": 2213,
+    "stargazers_count": 2216,
     "open_issues_count": 40,
     "forks_count": 179
   }
