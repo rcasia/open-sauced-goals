@@ -1,51 +1,51 @@
 [
   {
     "full_name": "processing/p5.js",
-    "stargazers_count": 17755,
-    "open_issues_count": 221,
-    "forks_count": 2675
+    "stargazers_count": 17771,
+    "open_issues_count": 219,
+    "forks_count": 2678
   },
   {
     "full_name": "OmniDB/OmniDB",
-    "stargazers_count": 2828,
+    "stargazers_count": 2834,
     "open_issues_count": 321,
-    "forks_count": 406
+    "forks_count": 407
   },
   {
     "full_name": "akiver/CSGO-Demos-Manager",
-    "stargazers_count": 953,
-    "open_issues_count": 120,
+    "stargazers_count": 956,
+    "open_issues_count": 113,
     "forks_count": 156
   },
   {
     "full_name": "dbeaver/dbeaver",
-    "stargazers_count": 27321,
-    "open_issues_count": 1509,
-    "forks_count": 2518
+    "stargazers_count": 27348,
+    "open_issues_count": 1487,
+    "forks_count": 2522
   },
   {
     "full_name": "VCVRack/Rack",
-    "stargazers_count": 3580,
+    "stargazers_count": 3581,
     "open_issues_count": 307,
     "forks_count": 402
   },
   {
     "full_name": "httpie/httpie",
-    "stargazers_count": 22462,
+    "stargazers_count": 22524,
     "open_issues_count": 110,
-    "forks_count": 3686
+    "forks_count": 3687
   },
   {
     "full_name": "lichess-org/lila",
-    "stargazers_count": 11724,
-    "open_issues_count": 592,
-    "forks_count": 1685
+    "stargazers_count": 11730,
+    "open_issues_count": 596,
+    "forks_count": 1688
   },
   {
     "full_name": "firebase/php-jwt",
-    "stargazers_count": 8255,
-    "open_issues_count": 85,
-    "forks_count": 1162
+    "stargazers_count": 8264,
+    "open_issues_count": 83,
+    "forks_count": 1163
   },
   {
     "full_name": "fireship-io/tdd-basics-project",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "chrisleekr/yii2-angular-boilerplate",
-    "stargazers_count": 211,
+    "stargazers_count": 210,
     "open_issues_count": 31,
     "forks_count": 100
   },
@@ -63,19 +63,19 @@
     "full_name": "ngx-rocket/generator-ngx-rocket",
     "stargazers_count": 1454,
     "open_issues_count": 44,
-    "forks_count": 219
+    "forks_count": 220
   },
   {
     "full_name": "thombergs/buckpal",
-    "stargazers_count": 1324,
+    "stargazers_count": 1328,
     "open_issues_count": 16,
     "forks_count": 422
   },
   {
     "full_name": "CodelyTV/php-ddd-example",
-    "stargazers_count": 2244,
+    "stargazers_count": 2248,
     "open_issues_count": 49,
-    "forks_count": 831
+    "forks_count": 833
   },
   {
     "full_name": "CodelyTV/java-ddd-skeleton",
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "moment/moment",
-    "stargazers_count": 46742,
+    "stargazers_count": 46746,
     "open_issues_count": 212,
-    "forks_count": 7101
+    "forks_count": 7104
   },
   {
     "full_name": "Yorubaname/yorubaname-website",
@@ -109,14 +109,14 @@
   },
   {
     "full_name": "acekyd/made-in-nigeria",
-    "stargazers_count": 772,
+    "stargazers_count": 773,
     "open_issues_count": 6,
-    "forks_count": 349
+    "forks_count": 348
   },
   {
     "full_name": "andresgongora/synth-shell",
-    "stargazers_count": 495,
-    "open_issues_count": 9,
+    "stargazers_count": 497,
+    "open_issues_count": 10,
     "forks_count": 190
   },
   {
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "angular/flex-layout",
-    "stargazers_count": 5853,
+    "stargazers_count": 5855,
     "open_issues_count": 50,
-    "forks_count": 758
+    "forks_count": 757
   },
   {
     "full_name": "juliangarnier/anime",
-    "stargazers_count": 42687,
+    "stargazers_count": 42705,
     "open_issues_count": 190,
-    "forks_count": 3509
+    "forks_count": 3511
   },
   {
     "full_name": "milanpaudyal/Criteria-builder-demo",
@@ -157,15 +157,15 @@
   },
   {
     "full_name": "agarciadom/ipwebcam-gst",
-    "stargazers_count": 556,
+    "stargazers_count": 557,
     "open_issues_count": 6,
     "forks_count": 148
   },
   {
     "full_name": "linkfy/Tools-for-Instagram",
-    "stargazers_count": 423,
+    "stargazers_count": 424,
     "open_issues_count": 26,
-    "forks_count": 72
+    "forks_count": 73
   },
   {
     "full_name": "IP-Algorithmics/CodeForcesIO",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "Xmader/musescore-downloader",
-    "stargazers_count": 2239,
+    "stargazers_count": 2241,
     "open_issues_count": 40,
     "forks_count": 179
   }
