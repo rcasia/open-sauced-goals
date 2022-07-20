@@ -1,8 +1,8 @@
 [
   {
     "full_name": "processing/p5.js",
-    "stargazers_count": 17794,
-    "open_issues_count": 214,
+    "stargazers_count": 17797,
+    "open_issues_count": 213,
     "forks_count": 2681
   },
   {
@@ -13,14 +13,14 @@
   },
   {
     "full_name": "akiver/CSGO-Demos-Manager",
-    "stargazers_count": 964,
-    "open_issues_count": 115,
+    "stargazers_count": 965,
+    "open_issues_count": 116,
     "forks_count": 156
   },
   {
     "full_name": "dbeaver/dbeaver",
-    "stargazers_count": 27391,
-    "open_issues_count": 1495,
+    "stargazers_count": 27407,
+    "open_issues_count": 1489,
     "forks_count": 2533
   },
   {
@@ -31,19 +31,19 @@
   },
   {
     "full_name": "httpie/httpie",
-    "stargazers_count": 22597,
-    "open_issues_count": 110,
+    "stargazers_count": 22612,
+    "open_issues_count": 111,
     "forks_count": 3688
   },
   {
     "full_name": "lichess-org/lila",
-    "stargazers_count": 11742,
-    "open_issues_count": 599,
-    "forks_count": 1694
+    "stargazers_count": 11755,
+    "open_issues_count": 606,
+    "forks_count": 1695
   },
   {
     "full_name": "firebase/php-jwt",
-    "stargazers_count": 8271,
+    "stargazers_count": 8276,
     "open_issues_count": 70,
     "forks_count": 1163
   },
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "thombergs/buckpal",
-    "stargazers_count": 1333,
+    "stargazers_count": 1334,
     "open_issues_count": 16,
     "forks_count": 425
   },
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "moment/moment",
-    "stargazers_count": 46750,
+    "stargazers_count": 46753,
     "open_issues_count": 213,
-    "forks_count": 7106
+    "forks_count": 7107
   },
   {
     "full_name": "Yorubaname/yorubaname-website",
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "angular/flex-layout",
-    "stargazers_count": 5855,
+    "stargazers_count": 5856,
     "open_issues_count": 50,
     "forks_count": 757
   },
   {
     "full_name": "juliangarnier/anime",
-    "stargazers_count": 42720,
+    "stargazers_count": 42726,
     "open_issues_count": 192,
-    "forks_count": 3512
+    "forks_count": 3515
   },
   {
     "full_name": "milanpaudyal/Criteria-builder-demo",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "mattn/emmet-vim",
-    "stargazers_count": 5985,
+    "stargazers_count": 5986,
     "open_issues_count": 112,
     "forks_count": 416
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "Xmader/musescore-downloader",
-    "stargazers_count": 2245,
+    "stargazers_count": 2248,
     "open_issues_count": 40,
-    "forks_count": 179
+    "forks_count": 180
   }
 ]
